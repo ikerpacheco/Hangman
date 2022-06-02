@@ -5,6 +5,6 @@ This was a university exam that we achieved to pass with the highest mark. We ha
 ----------------------------------
 HOW TO PLAY
 
-Clone the repository and type "make re" to compile the program. Then, type ./hangman to start playing. 
+Clone the repository and type "make re" to compile the program. Then, type "./hangman dic" to start playing with the dictionary given.
 
-NOTE: You need a dictionary of words, given by the university!
+ENJOY!
