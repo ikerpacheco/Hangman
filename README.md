@@ -3,8 +3,13 @@
 This was a university exam that we achieved to pass with the highest mark. We had to do it in less than 4 hours and without searching information on the internet.
 
 ----------------------------------
-HOW TO PLAY
+### HOW TO PLAY
 
-Clone the repository and type "make re" to compile the program. Then, type "./hangman dic" to start playing with the dictionary given.
+- Execute the program giving a dictionary as an argument.
+- The program will choose one random word of it.
+- The game starts, your objective is to guess the hidden word.
+- For each character tested, the program will say if it is on the hidden word.
 
-ENJOY!
+
+
+![image](https://user-images.githubusercontent.com/91873393/171805846-a6770df9-c17c-4ef8-9ef4-5a3ab934c220.png)
